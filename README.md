@@ -1,2 +1,3 @@
-sparklemotion
-=============
+# sparklemotion #
+
+## An electrifying project ##
